@@ -9,7 +9,7 @@
     position: relative;
     font-family: Arial;
     width: 100%;
-  
+    border-radius: 20%;
     text-align: center;
    
   }
@@ -19,6 +19,8 @@
     position: relative;
     font-family: lato,Arial;
     width: 100%;
+    border-radius: 20%;
+
     height: 20%;
     text-align: center;
    
@@ -34,6 +36,8 @@
   .custom-select select {
     display: none; /*hide original SELECT element:*/
     text-align: center;
+        border-radius: 20%;
+
   }
   
   .select-selected {
@@ -199,10 +203,15 @@ body{
     background-color: black;
     box-shadow: 3px 3px 8px #b1b1b1, -3px -3px -8px  #fff;
     transition: all;
-
-
-
 }
+
+
+
+
+
+
+
+
 .singin-button:hover {
     background-color: red;
 
