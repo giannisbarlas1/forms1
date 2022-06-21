@@ -1,0 +1,42 @@
+
+ul {
+    list-style-type: none;
+    margin-top: -1px;
+    overflow: hidden;
+    margin-left: -10%;
+    margin-right: -1%;
+    font-family:  "Lato", sans-serif;
+    font-style: bold;
+
+    background-color: rgb(255, 255, 255);
+  }
+li {
+    text-align: center;
+    float: right;
+    margin-right: 5.5%;
+  }
+  
+  li a {
+   
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 64px 46px ;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+
+  .img{
+      margin-left:-1%;
+      margin-top:-13%;
+  }
+
+  h1{
+    font-size:35px;
+    font-family: lato,sans-serif;
+    margin-left:10%;
+    margin-top:-8%;
+    }
