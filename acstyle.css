@@ -43,7 +43,10 @@ body {
 
 
 .image{
-  padding-left: 44%;
+   display: block;
+  margin-left: 40%;
+  margin-right: 40%;
+
 }
 
 
