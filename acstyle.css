@@ -43,11 +43,12 @@ body {
 
 
 .image{
-   display: block;
+  display: block;
   margin-left: 40%;
   margin-right: 40%;
 
 }
+
 
 
 /* Responsive navigation menu (for mobile devices) */
